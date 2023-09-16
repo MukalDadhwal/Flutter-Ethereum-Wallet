@@ -1,0 +1,55 @@
+name: phantom_wallet_connect_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  realm: 1.2.0
+  web3dart: ^2.6.1
+  pretty_qr_code: ^2.0.3
+  http: any
+  provider: ^6.0.5
+  google_fonts: any
+  flutter_svg: any
+  # flutter_neumorphic: ^3.2.0
+  flutter_neumorphic: 
+    git:
+      url: https://github.com/den0206/Flutter-Neumorphic.git
+      ref: feature/remoce_accentcolor
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  # flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+  #   - images/a_dot_ham.jpeg
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
