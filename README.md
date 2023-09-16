@@ -9,7 +9,7 @@ alt="Twitter Badge"
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
 alt="Twitter Badge"
 />
-<img src="	https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"
+<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"
 alt="Twitter Badge"
 />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"
